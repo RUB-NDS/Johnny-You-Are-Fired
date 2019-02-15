@@ -1,6 +1,12 @@
 # Johnny-You-Are-Fired
 Artifacts for the USENIX publication.
 
+- [MailMate](#mailmate)
+  * [CMS Attack Class](#cms-attack-class)
+  * [MIME Attack Class](#mime-attack-class)
+- [UI Attack Class](#ui-attack-class)
+
+
 # MailMate
 
 ## CMS Attack Class
