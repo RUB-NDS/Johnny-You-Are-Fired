@@ -1,0 +1,21 @@
+From: Mallory
+To: Bob
+Subject: Crash - absent CMS signedData
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----605D3539E4590077A2906F829EEDB328"
+
+This is an S/MIME signed message
+
+------605D3539E4590077A2906F829EEDB328
+Content-type: text/plain
+
+This email may crash certain clients, including Thunderbird and iOS Mail.
+
+------605D3539E4590077A2906F829EEDB328
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+MAsGCSqGSIb3DQEHAg==
+------605D3539E4590077A2906F829EEDB328--
+
