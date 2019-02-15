@@ -30,4 +30,4 @@ to be done...
 
 # UI Attack Class
 
-[![screenshots/mailmate-u0-generic.png](05-ui/u0-generic.eml)]()
+[![screenshots/mailmate-u1-generic.png](05-ui/u1-generic.eml)]()
