@@ -1,0 +1,91 @@
+To: johnny@bigcorporation.de
+From: manager@bigcorporation.de
+Subject: Attack Class 'MIME', Test 'M1' (PGP/MIME)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="DELIMITER"
+
+--DELIMITER
+Content-Type: text/plain
+
+Johnny, you are fired!
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+--DELIMITER
+Content-Type: multipart/signed; boundary="BOUNDARY";
+  protocol="application/pgp-signature"
+
+--BOUNDARY
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+
+Congratulations, you have been promoted!
+
+--BOUNDARY
+Content-Type: application/pgp-signature; name="signature.asc"
+
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAABCAAdFiEEqkgrT/dzWE9Y0UVj8YJzxvtXm+QFAlxmy10ACgkQ8YJzxvtX
+m+SdUgv/VvsU76VxUzFxUN7BFAqFHTSyzJApxRh4YPgp88KXhHaeNlq0meXintyr
+YI+uQkpv78CE+qgOYF05+5foKuy2QPee8h29VoUABSOz9xhZkS2g7JPPkm/FTffN
+zzHJO0ezwIGCF7VZLvZF7xvAXRlcuF6r9xzkDmOaqcBP3Fp/eMrO6H2f5x0KUPPn
+A0hGRzjhXU9Q9mgGSypg7mSy5mo/40ZEl07EEyB78vv1wgdksczLW6PCMmG5sCbq
+nI08ktWt/Mof3No11nSWfXTom7PWuzuRRAYR59q+vVhUhqTugvf/zv7r+WWVCxTr
++fpCk0bxJ9HFLmS0m8pb5xv4Q13f9sQzrMYNDQGRky2dg9kbXX6o306yokCeY3Kn
+bLJtfd75CVhryOVThoVaB6qYxaWQaeI6uyvTf5FrsW0JJ2OKyYt3QC7jWX+sdQsA
+zTYJxihoDhFOOEFMuLjVT+u5G6gvJx3NdQxxgrS23Xe4TbVUOQ+NuhkX3c4h6TD5
+9lao46RM
+=04b0
+-----END PGP SIGNATURE-----
+
+--BOUNDARY--
+
+--DELIMITER--
