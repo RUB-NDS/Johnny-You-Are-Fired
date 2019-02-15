@@ -1,3 +1,5 @@
+(The following list may be incomplete.)
+
 # eContent Confusion
 
 ### Reported to Mozilla 14.11.2018
@@ -24,6 +26,12 @@ https://gitlab.gnome.org/GNOME/evolution/issues/251
 
 issue closed on 21.12.18, because "(...) it does not meet the bar for immediate servicing"
 
-# Other issues
+# trust issues
+
+### Reported to Nine 30.11.2018
+
+asked for further information 24.01.2019
+
+# other issues
 
 to be done...
