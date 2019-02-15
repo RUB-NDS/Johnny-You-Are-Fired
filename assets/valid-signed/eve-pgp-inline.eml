@@ -1,0 +1,24 @@
+To: johnny@bigcorporation.de
+From: eve@bigcorporation.de
+Subject: Inline PGP signed message by Eve
+MIME-Version: 1.0
+Content-Type: text/plain
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Johnny, you are fired!
+-----BEGIN PGP SIGNATURE-----
+
+iQHKBAEBCAA0FiEE+eYAclh4xtrjBojKS1aPSG6WD7UFAlxm1c4WHGV2ZUBiaWdj
+b3Jwb3JhdGlvbi5kZQAKCRBLVo9IbpYPtRCoC/96Y+RDcoIeQqVN1wCsUM4h9HwS
+4xMNHuKbwO/C7ygKqME6P53iOX4Ymv/VLjfRxblLPUzZPEhJM+k2v4W9dEku8RYj
+VqIkz9ZMHcNxUqzVDYUgt2bl2fQ0L5vWI4JzPXoTzd7t8dZPB3DZbZd54mAeJ5CT
+SPDa+TRPHM9Zhet7C21Af6w2vau2Hza7KzhqK5zo7RZNKDlZ2gnh939oRJN2pM1N
+tlVXeqwH9N+TpAyLoYsvabFQLTh1OImtdPGBnxuSx0L4pLwffHQtL62ptg9Xi6T+
+pnH/D7cBIw/yDEe/zs9oD2MDv3N+Us5/wttPt6x6WDZhbT9FJych2Rh3twVyeo20
+YmgQkRgRmnhDnT3u/AXOHG30VvsgTQIFtAViSxCfQl3M4lGV7qLosn+O3K8/5q5i
+Q5XmGOTJCxLKkOhZd1a0cdoI2KxHFVQ7CujB9c/ZmNRhCWqEUtx1OzdBxmRwOd4p
+DL/1Pl3sdqGhB/4dTj9Rkk4o8gkQHmqaFWGGB1M=
+=5CPd
+-----END PGP SIGNATURE-----

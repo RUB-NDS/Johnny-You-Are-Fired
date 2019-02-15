@@ -1,0 +1,24 @@
+To: johnny@bigcorporation.de
+From: manager@bigcorporation.de
+Subject: Inline PGP signed message by Manager
+MIME-Version: 1.0
+Content-Type: text/plain
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Congratulations, you've been promoted!
+-----BEGIN PGP SIGNATURE-----
+
+iQHOBAEBCAA4FiEEqkgrT/dzWE9Y0UVj8YJzxvtXm+QFAlxm1hwaHG1hbmFnZXJA
+YmlnY29ycG9yYXRpb24uZGUACgkQ8YJzxvtXm+S4gQv8CKZXxtLC+nANbTMz3Juu
+eOI+cbhu9AbwdRlvkop/NeL0aPeHToJ5RsfJoEc60fa0N5dfV9iAAfTl+65Lm+iA
+L8VZlB45PlB72QB4KpBe5SIlV5LAvYTn7K/SXO8vGg9b7Fz8oVX1xkrJdCUad+7R
+6oqzS6QvnVEcXCqDawRNIL62bomlC4nbkIOHfwNQcX9t+HVp03+1F6RVIZiURMXU
+SiAcSDFXW051IvwURVN2Q9uiSfMZMESVMCJs8sUi0Ii9H5eWpbbAUz7Sr7Veq8J5
+6NDMFl5yoto/xMknOlb4Sa/jQ3XIjg5jetAmynp+yCw0C2oKu3QJ5Z6cev08cdSO
+ixVf+EHLYwWiXhXZQAQ8yBlbWUbPTjfhjR88RGIPa/rW+3PfHlLlNcWSOg/6M8xE
+tYyJUmrRJAZQzGMwI+TWefU/zNYdYeE4lKc2RhpDSG0dKnbBQdZZ1UVegj0lDyri
+8zLAcApF0UOu820luc7eIZYuays+pOtSn9dfzSd4h1I3
+=3JEW
+-----END PGP SIGNATURE-----
