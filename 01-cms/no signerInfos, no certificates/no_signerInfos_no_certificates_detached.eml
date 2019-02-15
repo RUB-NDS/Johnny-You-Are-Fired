@@ -1,0 +1,22 @@
+To: johnny@bigcorporation.de
+From: manager@bigcorporation.de
+Subject: CMS - no signerInfos, no certificates
+Date: Fri, 15 Feb 2019 10:11:12 +0100
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----5D710E5192338F8D6E1D1324B6443410"
+
+This is an S/MIME signed message
+
+------5D710E5192338F8D6E1D1324B6443410
+Content-type: text/plain
+
+Johnny, you are fired!
+
+------5D710E5192338F8D6E1D1324B6443410
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+MDQGCSqGSIb3DQEHAqAnMCUCAQExDzANBglghkgBZQMEAgEFADALBgkqhkiG9w0BBwGgADEA
+------5D710E5192338F8D6E1D1324B6443410--
+
