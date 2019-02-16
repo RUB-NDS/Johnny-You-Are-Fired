@@ -9,31 +9,31 @@
 
 ### The Bat!
 
-* Reported on 2018-09-25 via administrative@ritlabs.com
+* Reported on 2018-09-25 to administrative@ritlabs.com
 
 ### Postbox
 
-* Reported on 2018-09-26 via https://support.postbox-inc.com/hc/en-us/requests/122902 (private)
+* Reported on 2018-09-26 to https://support.postbox-inc.com/hc/en-us/requests/122902 (private)
 
 ### Trojitá
 
-* Reported on 2018-09-25 via https://bugs.kde.org/show_bug.cgi?id=399050
+* Reported on 2018-09-25 to https://bugs.kde.org/show_bug.cgi?id=399050
 
 ### MailMate
 
-* Reported on 2018-09-25 via mm-info@freron.com
+* Reported on 2018-09-25 to mm-info@freron.com
 
 ### Airmail
 
-* Reported on 2018-09-25 via contact@airmailapp.com
+* Reported on 2018-09-25 to contact@airmailapp.com
 
 ### K-9 Mail
 
-* Reported on 2018-09-25 via private email
+* Reported on 2018-09-25 to private email address
 
 ### R2Mail2
 
-* Reported on 2018-09-25 via private email
+* Reported on 2018-09-25 to private email address
 
 ### Nine
 
@@ -41,4 +41,4 @@
 
 ### Mailpile
 
-* Reported on 2018-09-25 via team@mailpile.is
+* Reported on 2018-09-25 to team@mailpile.is

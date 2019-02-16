@@ -1,19 +1,21 @@
 ### Enigmail
 
-* Reported via private email
+* Reported on 2018-09-15 to private email address
+* Further discussion: https://lwn.net/Articles/767717/
+* Release notes: https://enigmail.net/index.php/en/download/changelog
 
 ### GpgOL
 
-* Reported on 2018-09-25 via gpg4win-professional@intevation.de
+* Reported on 2018-09-25 to gpg4win-professional@intevation.de
 
 ### Microsoft
 
-* Reported on 2018-11-11 via secure@microsoft.com
+* Reported on 2018-11-11 to secure@microsoft.com
 * Affected products: Outlook, Windows 10 Mail, Windows Live Mail, Exchange/OWA
 
 ### eM Client
 
-* Reported on 2018-09-25 via info@emclient.com
+* Reported on 2018-09-25 to info@emclient.com
 
 ### KMail
 
@@ -30,23 +32,27 @@
 
 ### Mutt
 
-* Reported via private email
+* Reported on 2018-09-15 to private email address
 
 ### GPG Suite
 
-* Reported via private email
+* Reported on 2018-08-16 to private email address
+
+### Apple Mail
+
+* Reported on 2018-08-16 to product-security@apple.com
 
 ### MailMate
 
-* Reported on 2018-09-25 via mm-info@freron.com
+* Reported on 2018-09-25 to mm-info@freron.com
 
 ### R2Mail2
 
-* Reported on 2018-09-25 via private email
+* Reported on 2018-09-25 to private email address
 
 ### MailDroid
 
-* Reported on 2018-09-25 via maildroiddev@gmail.com
+* Reported on 2018-09-25 to maildroiddev@gmail.com
 
 ### Nine
 
@@ -59,4 +65,4 @@
 
 ### Mailpile
 
-* Reported on 2018-09-25 via team@mailpile.is
+* Reported on 2018-09-25 to team@mailpile.is

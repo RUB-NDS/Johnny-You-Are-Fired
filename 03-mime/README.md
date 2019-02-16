@@ -11,7 +11,7 @@
 
 ### The Bat!
 
-* Reported 2018-05-27 via administrative@ritlabs.com
+* Reported 2018-05-27 to administrative@ritlabs.com
 
 ### Evolution
 
@@ -19,15 +19,15 @@
 
 ### Claws
 
-* Reported 2018-05-27 via private email address
+* Reported 2018-05-27 to private email address
 
 ### Apple Mail
 
-* Reported 2018-05-28 via product-security@apple.com
+* Reported 2018-05-28 to product-security@apple.com
 
 ### GPG Suite
 
-* Reported 2018-05-22 via team@gpgtools.org
+* Reported 2018-05-22 to team@gpgtools.org
 
 ### MailMate
 
@@ -35,8 +35,8 @@
 
 ### Airmail
 
-* Reported 2018-05-27 via contact@airmailapp.com
+* Reported 2018-05-27 to contact@airmailapp.com
 
 ### MailDroid
 
-* Reported 2018-05-27 via maildroiddev@gmail.com
+* Reported 2018-05-27 to maildroiddev@gmail.com
