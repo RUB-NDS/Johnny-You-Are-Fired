@@ -1,0 +1,12 @@
+To: johnny@bigcorporation.de
+From: manager@bigcorporation.de
+Subject: Class 'UI', Test 'U1' (Generic)
+Content-Type: text/html
+
+<html style="background-color: red;">
+<body style="background-color: red;">
+<div  style="background-color: red; color: white; font-size: 16px;">
+This part of the UI is in control of the attacker
+</div>
+</body>
+</html>

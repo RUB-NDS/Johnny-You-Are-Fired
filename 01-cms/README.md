@@ -1,36 +1,37 @@
 (The following list may be incomplete.)
 
-# eContent Confusion
+# eContent confusion
 
-### Reported to Mozilla 14.11.2018
+### Mozilla (Thunderbird)
 
-https://www.mozilla.org/en-US/security/advisories/mfsa2019-06/#CVE-2018-18509
+* Reported 2018-11-14: https://www.mozilla.org/en-US/security/advisories/mfsa2019-06/#CVE-2018-18509
 
-### Reported to Postbox 30.11.2018
+### Postbox
 
-forwared to security team 07.12.18
+* Reported 2018-11-30 (forwared to security team 2018-12-07)
 
-### Reported to Apple 07.12.2018
+### Apple
 
-reproduced, but no CVE assigned yet
+* Reported 2018-12-07 (reproduced, but no CVE assigned yet)
 
 # multiple signerInfos
 
-### Reported to Gnome Devs 30.12.2010
+### Gnome (Evolution)
 
-https://gitlab.gnome.org/GNOME/evolution/issues/251
+* Reported 2018-11-30: https://gitlab.gnome.org/GNOME/evolution/issues/251
 
 # no signerInfos
 
-### Reported to Microsoft 30.11.2018
+### Microsoft
 
-issue closed on 21.12.18, because "(...) it does not meet the bar for immediate servicing"
+* Reported 2018-11-30
+* Issue closed on 2018-12-21, because "(...) it does not meet the bar for immediate servicing"
 
 # trust issues
 
-### Reported to Nine 30.11.2018
+### Nine
 
-asked for further information 24.01.2019
+* Reported 2018-11-30 (asked for further information (2019-01-24)
 
 # other issues
 
