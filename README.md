@@ -23,5 +23,5 @@ Our attacks allow the spoofing of digital signatures for arbitrary messages in 1
 ### Evaluation of OpenPGP-capable email clients
 ![Evaluation of OpenPGP-capable email clients](assets/eval-pgp.png)
 
-### Evaluation email clients supportin S/MIME
-![Evaluation email clients supportin S/MIME](assets/eval-smime.png)
+### Evaluation email clients supporting S/MIME
+![Evaluation email clients supporting S/MIME](assets/eval-smime.png)
