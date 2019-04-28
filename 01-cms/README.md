@@ -12,7 +12,7 @@
 
 ### Apple
 
-* Reported 2018-12-07 (reproduced, but no CVE assigned yet)
+* Reported 2018-12-07 (CVE-2019-7284)
 
 # multiple signerInfos
 
