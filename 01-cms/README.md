@@ -12,7 +12,7 @@
 
 ### Apple
 
-* Reported 2018-12-07 (CVE-2019-7284)
+* Reported 2018-12-07 (CVE-2019-7284): https://support.apple.com/de-de/HT209599
 
 # multiple signerInfos
 
