@@ -34,3 +34,4 @@ Our attacks allow the spoofing of digital signatures for arbitrary messages in 1
 * **golem.de**: [*Mailprogramme fallen auf falsche Signaturen herein*](https://www.golem.de/news/pgp-und-s-mime-mailprogramme-fallen-auf-falsche-signaturen-herein-1904-140939.html) (Hanno Böck)
 * **gpg4win.org**: [*Detecting spoofed email signatures*](https://www.gpg4win.org/statement-spoofing.html)
 * **OpenPGP Working Group Mailing List**: [*Discussion Thread*](https://mailarchive.ietf.org/arch/msg/openpgp/_JZSrjvFaoPMJoV-z8Lz5hYLtBM)
+* **TheHackerNews**: [*Over Dozen Popular Email Clients Found Vulnerable to Signature Spoofing Attacks*](https://thehackernews.com/2019/04/email-signature-spoofing.html)
