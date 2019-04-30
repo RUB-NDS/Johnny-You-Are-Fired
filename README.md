@@ -1,5 +1,5 @@
 # Johnny-You-Are-Fired
-Artifacts for the USENIX publication | Full paper [here](https://TBD))
+Artifacts for the USENIX publication | Full paper [here](paper.pdf))
 
 ![Forged PGP signature of Phil Zimmermann](assets/forged.png)
 
