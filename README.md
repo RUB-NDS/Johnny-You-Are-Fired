@@ -25,3 +25,10 @@ Our attacks allow the spoofing of digital signatures for arbitrary messages in 1
 
 ### Evaluation email clients supporting S/MIME
 ![Evaluation email clients supporting S/MIME](assets/eval-smime.png)
+
+## Press
+
+#### 2019/4/30
+
+* [*Forscher finden Schwachstellen in E-Mail-Signaturprüfung*](https://www.bsi.bund.de/DE/Presse/Pressemitteilungen/Presse2019/Signaturfaelschungen-300419.html) (Bundesamt für Sicherheit in der Informationstechnik)
+* [*Mailprogramme fallen auf falsche Signaturen herein*](https://www.golem.de/news/pgp-und-s-mime-mailprogramme-fallen-auf-falsche-signaturen-herein-1904-140939.html)
