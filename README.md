@@ -30,5 +30,5 @@ Our attacks allow the spoofing of digital signatures for arbitrary messages in 1
 
 #### 2019/4/30
 
-* [*Forscher finden Schwachstellen in E-Mail-Signaturprüfung*](https://www.bsi.bund.de/DE/Presse/Pressemitteilungen/Presse2019/Signaturfaelschungen-300419.html) (Bundesamt für Sicherheit in der Informationstechnik)
-* [*Mailprogramme fallen auf falsche Signaturen herein*](https://www.golem.de/news/pgp-und-s-mime-mailprogramme-fallen-auf-falsche-signaturen-herein-1904-140939.html)
+* **Bundesamt für Sicherheit in der Informationstechnik**: [*Forscher finden Schwachstellen in E-Mail-Signaturprüfung*](https://www.bsi.bund.de/DE/Presse/Pressemitteilungen/Presse2019/Signaturfaelschungen-300419.html)
+* **golem.de**: [*Mailprogramme fallen auf falsche Signaturen herein*](https://www.golem.de/news/pgp-und-s-mime-mailprogramme-fallen-auf-falsche-signaturen-herein-1904-140939.html) (Hanno Böck)
