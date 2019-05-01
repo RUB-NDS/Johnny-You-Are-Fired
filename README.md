@@ -35,3 +35,10 @@ Our attacks allow the spoofing of digital signatures for arbitrary messages in 1
 * **gpg4win.org**: [*Detecting spoofed email signatures*](https://www.gpg4win.org/statement-spoofing.html)
 * **OpenPGP Working Group Mailing List**: [*Discussion Thread*](https://mailarchive.ietf.org/arch/msg/openpgp/_JZSrjvFaoPMJoV-z8Lz5hYLtBM)
 * **TheHackerNews**: [*Over Dozen Popular Email Clients Found Vulnerable to Signature Spoofing Attacks*](https://thehackernews.com/2019/04/email-signature-spoofing.html)
+
+#### 2019/05/01
+
+* **heise online**: [*S/MIME und PGP: E-Mail-Signaturprüfung lässt sich austricksen*](https://www.heise.de/security/meldung/S-MIME-und-PGP-E-Mail-Signaturpruefung-laesst-sich-austricksen-4411230.html) (Fabian A. Scherschel)
+* **The Daily Swig**: [*More than half of popular email clients are vulnerable to signature spoofing*](https://portswigger.net/daily-swig/more-than-half-of-popular-email-clients-are-vulnerable-to-signature-spoofing) (John Leyden)
+* **TechNadu**: [*Popular Email Clients Are Vulnerable to Signature Spoofing Attacks*](https://www.technadu.com/popular-email-clients-vulnerable-signature-spoofing-attacks/66443/) (Bill Toulas)
+* **security.nl**: [*Onderzoekers vinden lek in controle van e-mailhandtekeningen*](https://www.security.nl/posting/607305/Onderzoekers+vinden+lek+in+controle+van+e-mailhandtekeningen)
